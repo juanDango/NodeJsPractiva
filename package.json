@@ -1,7 +1,6 @@
 {
   "name": "Febrero26",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,5 +8,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanDango/NodeJsPractiva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanDango/NodeJsPractiva/issues"
+  },
+  "homepage": "https://github.com/juanDango/NodeJsPractiva#readme",
+  "description": ""
 }
